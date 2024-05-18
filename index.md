@@ -8,4 +8,4 @@
 - [Viikko 4](https://bfm471.github.io/pilvipalvelutTehtava/tehtavat/Vko4/Index.html)
 - [Viikko 5](https://bfm471.github.io/pilvipalvelutTehtava/tehtavat/Vko5/vko5.html)
 - Viikko 6
-- Harjoitustyö
+- [Harjoitustyö](https://bfm471.github.io/pilvipalvelutTehtava/tehtavat/Harjoitustehtava/index.html)
