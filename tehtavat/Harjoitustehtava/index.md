@@ -4,13 +4,13 @@
 
 ## Idea
 
-Sovellus hakee rest rajapinnasta satunnaisia iskävitsejä, joita kirjautunut käyttäjä voi halutessaan tallentaa omiin suosikkeihinsa. Suosikit tallentuvat Firebasen Firestore-tietokantaan, josta sovellus hakee ne näytettäviksi "Myjokes" -näkymään käyttäjän mukaan. Vitsejä voi myös helposti poistaa suosikeista.
+Sovellus hakee rest-rajapinnasta sekä satunnaisia, että käyttäjän antaman hakusanan sisältäviä iskävitsejä, joita kirjautunut käyttäjä voi halutessaan tallentaa omiin suosikkeihinsa. Suosikit tallentuvat Firebasen Firestore-tietokantaan, josta sovellus hakee ne näytettäviksi "Myjokes" -näkymään käyttäjän mukaan. Vitsejä voi myös helposti poistaa suosikeista.
 
-Sovelluksen autentikointi hoituu Firebasen Authenticatella.
+Sovelluksen autentikointi on toteutettu Firebasen Authenticatella.
 
 ## Responsiivisuus
 
-Sovellus mukautuu täysin erikokoisiin käytössä oleviin päätteisiin. Tämä on toteutettu mm. Material UI:n komponenteilla, jotka auttavat responsiivisen web-sovelluksen luonnissa.
+Sovellus mukautuu täysin erikokoisiin käytössä oleviin päätteisiin. Tämä on toteutettu mm. Material UI:n komponenteilla, jotka auttavat responsiivisen web-sovelluksen luonnissa. Toteutuksessa on myös otettu huomioon kaksi eri väriskeemaa - light ja dark.
 Testaus tehtiin webselaimen Developers tools:n ja [Responsive Testing Tools](https://responsivetesttool.com/) sivuston avulla.
 
 ## Toimivuus eri selaimilla
